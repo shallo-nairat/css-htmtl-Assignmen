@@ -1,0 +1,8 @@
+#box{
+    padding: 20px;
+    margin: 5%;
+    border: solid hotpink;
+}
+#container{
+    border: dotted yellowgreen;
+} 
